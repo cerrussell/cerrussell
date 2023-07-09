@@ -4,13 +4,13 @@
 [![](https://raw.githubusercontent.com/cerrussell/cerrussell/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cerrussell/cerrussell/master/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-127-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 1.6 kB Used in GitHub's Storage 
+> 📦 1.7 kB Used in GitHub's Storage 
  > 
 > 🏆 146 Contributions in the Year 2023
  > 
@@ -47,25 +47,25 @@ Sunday                   206 commits         ███████████�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   7 hrs 1 min         ██████████████░░░░░░░░░░░   56.59 % 
-Docker                   1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-YAML                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-JSON                     1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-GitIgnore file           28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Python                   7 hrs 57 mins       ███████████████░░░░░░░░░░   59.08 % 
+Docker                   1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+JSON                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+YAML                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+TOML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 🔥 Editors: 
-PyCharm                  12 hrs 12 mins      █████████████████████████   98.36 % 
-Notepad++                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+PyCharm                  13 hrs 24 mins      █████████████████████████   99.58 % 
+Notepad++                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🐱‍💻 Projects: 
-blint                    7 hrs 31 mins       ███████████████░░░░░░░░░░   60.62 % 
-Python                   2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
-Unknown Project          40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-vulnerability-db         25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-spaCy-master             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+blint                    8 hrs 43 mins       ████████████████░░░░░░░░░   64.81 % 
+Python                   2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+Unknown Project          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+vulnerability-db         25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+spaCy-master             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 💻 Operating System: 
-Windows                  12 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -85,5 +85,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cerrussell/cerrussell/master/assets/bar_graph.png)
 
 
- Last Updated on July  8, 2023 UTC
+ Last Updated on July  9, 2023 UTC
 <!--END_SECTION:waka-->
