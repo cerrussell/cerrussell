@@ -1,4 +1,4 @@
-name: GitHub-Profile-Summary-Cards
+name: Update ReadMe
 
 on:
   create:
@@ -20,3 +20,9 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: -4
+
+  profile_stack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gleich/profile_stack@master
